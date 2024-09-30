@@ -13,12 +13,12 @@
             "properties": {
                 "LEVL_CODE": 0,
                 "NAME_LATN": "Deutschland",
-                "level_1_id": "DE",
-                "level_1_country": "DE",
-                "level_1_name": "Deutschland",
-                "level_1_mount_type": null,
-                "level_1_urbn_type": null,
-                "level_1_coast_type": null
+                "level_0_id": "DE",
+                "level_0_country": "DE",
+                "level_0_name": "Deutschland",
+                "level_0_mount_type": null,
+                "level_0_urbn_type": null,
+                "level_0_coast_type": null
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1239,12 +1239,12 @@
             "properties": {
                 "LEVL_CODE": 0,
                 "NAME_LATN": "Danmark",
-                "level_1_id": "DK",
-                "level_1_country": "DK",
-                "level_1_name": "Danmark",
-                "level_1_mount_type": null,
-                "level_1_urbn_type": null,
-                "level_1_coast_type": null
+                "level_0_id": "DK",
+                "level_0_country": "DK",
+                "level_0_name": "Danmark",
+                "level_0_mount_type": null,
+                "level_0_urbn_type": null,
+                "level_0_coast_type": null
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1961,12 +1961,12 @@
             "properties": {
                 "LEVL_CODE": 0,
                 "NAME_LATN": "\u00d6sterreich",
-                "level_1_id": "AT",
-                "level_1_country": "AT",
-                "level_1_name": "\u00d6sterreich",
-                "level_1_mount_type": null,
-                "level_1_urbn_type": null,
-                "level_1_coast_type": null
+                "level_0_id": "AT",
+                "level_0_country": "AT",
+                "level_0_name": "\u00d6sterreich",
+                "level_0_mount_type": null,
+                "level_0_urbn_type": null,
+                "level_0_coast_type": null
             },
             "geometry": {
                 "type": "Polygon",
